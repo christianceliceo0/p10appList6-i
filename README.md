@@ -22,3 +22,5 @@ samples, guidance on mobile development, and a full API reference.
 
 christian celiceo saenz
 a.21308051280333@cbtis128.edu.mx
+
+![Capturaaaaa](https://github.com/christianceliceo0/p10appList6-i/assets/143743250/a02081cd-e53c-463e-966f-cabd0c2b65fe)
